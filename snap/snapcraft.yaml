@@ -7,7 +7,7 @@ description: |
   numbered square tiles in random order with one tile missing.
 grade: stable
 confinement: strict
-base: core18
+base: core24
 
 architectures:
   - build-on: amd64
